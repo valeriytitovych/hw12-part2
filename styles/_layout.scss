@@ -1,0 +1,11 @@
+// LAYOUT
+%flex-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+%flex-row {
+    display: flex;
+    flex-direction: row;
+}
